@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="num">
+        <item name="background">
+            @drawable/num
+        </item>
+        <item name="android:layout_marginHorizontal">
+            6dp
+        </item>
+        <item name="android:textColor">
+            @color/black
+        </item>
+        <item name="textSize">
+            40sp
+        </item>
+    </style>
+</resources>
